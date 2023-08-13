@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800;900&display=swap");
+
+:root {
+  --color-yellow-1: #ccad00;
+  --color-yellow-2: #f5d000;
+  --color-yellow-3: #f8cb46;
+  --color-yellow-4: #ffea70;
+  --color-yellow-5: #fff099;
+  --color-yellow-6: #fff3ab;
+  --color-yellow-7: #fff6c2;
+  --color-yellow-8: #fffceb;
+  --color-black: #000000;
+  --color-grey-1: #666666;
+  --color-grey-2: #999999;
+  --color-grey-3: #cccccc;
+  --color-grey-4: #dddddd;
+  --color-grey-5: #eeeeee;
+  --color-grey-6: #f2f2f2;
+  --color-grey-7: #fcfcfc;
+  --color-grey-8: #ffffff;
+  --color-grey-9: #f7f7f7;
+  --color-green-1: #0c831f;
+  --color-green-2: #459220;
+  --color-green-3: #54b226;
+  --color-green-4: #73c04d;
+  --color-green-5: #92ce74;
+  --color-green-6: #b1dc9c;
+  --color-green-7: #d0eac3;
+  --color-green-8: #ecffec;
+  --color-red-1: #be2e2e;
+  --color-red-2: #d23333;
+  --color-red-3: #e73838;
+  --color-red-4: #eb5c5c;
+  --color-red-5: #f6787a;
+  --color-red-6: #f4a4a4;
+  --color-red-7: #ffdfdf;
+  --color-red-8: #fff5f5;
+
+  --fw-700: 700;
+  --fw-400: 400;
+  --fw-300: 300;
+  --fw-900: 900;
+  --fw-600: 600;
+
+  --ff-1: "Lato", sans-serif;
+  --ff-2: "Poppins", sans-serif;
+}
